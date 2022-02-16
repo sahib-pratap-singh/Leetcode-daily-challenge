@@ -6,7 +6,7 @@
       Input: head = [1,2,3,4]
       Output: [2,1,4,3]
       
-![Linked_list](https://github.com/sahib-pratap-singh/Leetcode-daily-challenge/blob/master/Feb_2022/swap_ex1.jpg)
+![Linked_list](https://github.com/sahib-pratap-singh/Leetcode-daily-challenge/blob/master/Feb_2022/Swap-Nodes-in-Pairs/swap_ex1.jpg)
 * **Example 2**:<br>
 
       Input: head = []
